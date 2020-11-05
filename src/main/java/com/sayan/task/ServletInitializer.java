@@ -1,4 +1,4 @@
-package com.sayan.task3;
+package com.sayan.task;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

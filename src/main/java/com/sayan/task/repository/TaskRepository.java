@@ -1,6 +1,6 @@
-package com.sayan.task3.repository;
+package com.sayan.task.repository;
 
-import com.sayan.task3.model.Task;
+import com.sayan.task.model.Task;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

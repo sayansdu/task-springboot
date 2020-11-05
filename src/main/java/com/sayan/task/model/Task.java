@@ -1,4 +1,4 @@
-package com.sayan.task3.model;
+package com.sayan.task.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
